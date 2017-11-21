@@ -1,0 +1,13 @@
+Top 10 INDIVIDUALS whose names are in the TEST SET are:  **note: more than one individual can live at the same address/apartment
+
+1) Lindsay Grand (0.044 miles away)
+2) John Doe (0.115 miles away)
+3) Jane Doe (also 0.115 miles away)
+4) Matthew Tyrnauer (0.141 miles away)
+5) John Doe (0.144 miles away)
+6) Charlotte Reed (also 0.144 miles away)
+7) Ron Skrepick (0.154 miles away)
+8) Michael Keith (also 0.154 miles away)
+9) John Doe (0.172 miles away)
+10) Jane Doe (also 0.172 miles away)
+**11 (3-way tie)) Gregoria Colon (also 0.172 miles away)
